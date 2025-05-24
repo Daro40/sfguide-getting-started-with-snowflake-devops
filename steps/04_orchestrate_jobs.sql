@@ -4,7 +4,7 @@ use schema quickstart_{{environment}}.gold;
 
 
 
--- declarative target table of pipeline
+-- declarative target table of FS pipeline
 create or alter table vacation_spots (
     city varchar
   , airport varchar
