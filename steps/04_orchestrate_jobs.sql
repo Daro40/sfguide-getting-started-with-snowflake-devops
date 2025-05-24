@@ -4,7 +4,7 @@ use schema quickstart_{{environment}}.gold;
 
 
 
--- declarative target table of FS pipeline
+-- declarative target table of FS pipeline destroy vordengarch
 create or alter table vacation_spots (
     city varchar
   , airport varchar
